@@ -27,11 +27,11 @@ I'm a passionate mobile engineer with extensive experience in **Flutter** and **
 - 🎯 Expanding my GitHub with open-source contributions and personal projects.
 
 ### 🌱 I’m currently learning ...
-- Currently learning Golang and go fiber to build fullstack applications
+- Currently learning SwiftUI
   
 ### 🔧 Tech Stack:
 
-- **Languages:** Dart, Java, Go, Kotlin, Javascript, Python, C
+- **Languages:** Dart, Kotlin, Java, Go, Swift, Javascript, Python, C
 - **Mobile Frameworks:** Flutter, Bloc, TDD & clean architecture, Native android
 - **Backend & Tools:**  Fiber, Node, Express.js, Posgres, Mongodb
 
