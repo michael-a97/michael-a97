@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Michael Asnake
 
-🚀 **Mobile Engineer** | 🏗️ **Flutter & Android Developer** | 🔥 **Learning Go & Fiber** | 👨🏽‍🎨 **Graphic Design Enthusiast**
+🚀 **Mobile Engineer** | 🏗️ **Flutter & Android Developer** | 🔥 **Learning game development with Unity** | 👨🏽‍🎨 **Graphic Design Enthusiast**
 
 I'm a passionate mobile engineer with extensive experience in **Flutter** and **native Android development**. I love building high-performance, user-friendly apps and exploring new technologies to push the boundaries of mobile development.
 
@@ -35,7 +35,7 @@ I'm a passionate mobile engineer with extensive experience in **Flutter** and **
 - **Languages:** Dart, Kotlin, Java, Go, Swift, Javascript, Python, C
 - **Mobile Frameworks:** Flutter, Bloc, TDD & clean architecture, Native android
 - **Backend & Tools:**  Fiber, Node, Express.js, Posgres, Mongodb
-- **Game dev & graphics** Unity, Adobe Illustrator, Blender
+- **Game dev & graphic design:** Unity, Adobe Illustrator, Blender
 
 
 ### 📫 Let's Connect!
