@@ -22,6 +22,7 @@ I'm a passionate mobile engineer with extensive experience in **Flutter** and **
 
 ### 🔭 What I'm up to...
 
+- 🎮 Learning game dev with unity
 - 📱 Building innovative and scalable mobile applications.
 - ⚡ Improving my backend skills with **GoLang**.
 - 🎯 Expanding my GitHub with open-source contributions and personal projects.
@@ -34,6 +35,7 @@ I'm a passionate mobile engineer with extensive experience in **Flutter** and **
 - **Languages:** Dart, Kotlin, Java, Go, Swift, Javascript, Python, C
 - **Mobile Frameworks:** Flutter, Bloc, TDD & clean architecture, Native android
 - **Backend & Tools:**  Fiber, Node, Express.js, Posgres, Mongodb
+- **Game dev & graphics** Unity, Adobe Illustrator, Blender
 
 
 ### 📫 Let's Connect!
