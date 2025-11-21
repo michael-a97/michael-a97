@@ -39,7 +39,7 @@ I'm a passionate mobile engineer with extensive experience in **Flutter** and **
 
 
 ### 📫 Let's Connect!
-- 🌐 [Website](https://www.michaelasnake.com)
+- 🌐 [michaelasnake.com](https://www.michaelasnake.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/michael-asnake/)
 - 🐦 [Twitter](https://x.com/catchy_usrname)
 
